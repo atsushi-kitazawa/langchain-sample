@@ -1,0 +1,4 @@
+.venv/*
+.vscode/*
+
+openai_api_key_export.sh
